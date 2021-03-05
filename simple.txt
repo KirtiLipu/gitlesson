@@ -1,0 +1,2 @@
+This is a just simple text file.
+It works nothing.
