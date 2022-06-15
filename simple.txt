@@ -1,5 +1,5 @@
 This is a just simple text file.
 It works nothing
-All we need to put a smile on our face everyday.
+
 
 New line adding for testing purpose.
